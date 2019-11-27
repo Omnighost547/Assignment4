@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25e0fbe8-d010-4f46-81dd-e1f2eb6542d8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL80 Database" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL80 Database" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL80 Database" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="books: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1T7IraCwkGgz2Imk8YBn0VH1Wj7" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572521832955" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tomcat" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="settings.editor.splitter.proportion" value="0.22727273" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tommy\OneDrive - GMIT\5thYear\NetProgWithJava\Assignment4\ECarr\src" />
+      <recent name="C:\Users\tommy\OneDrive - GMIT\5thYear\NetProgWithJava\Assignment4\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Assignment4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="DBModule1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="DBModule1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SQLPlugin.ProjectConfiguration">
+    <queries />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25e0fbe8-d010-4f46-81dd-e1f2eb6542d8" name="Default Changelist" comment="" />
+      <created>1572003132372</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572003132372</updated>
+      <workItem from="1572003135786" duration="3275000" />
+      <workItem from="1572021190270" duration="1077000" />
+      <workItem from="1572022940461" duration="971000" />
+      <workItem from="1572364368097" duration="4398000" />
+      <workItem from="1572441515404" duration="754000" />
+      <workItem from="1572467503126" duration="2564000" />
+      <workItem from="1572520052765" duration="146000" />
+      <workItem from="1572521367492" duration="614000" />
+      <workItem from="1572804912791" duration="11070000" />
+      <workItem from="1572820677313" duration="9836000" />
+      <workItem from="1572898731618" duration="712000" />
+      <workItem from="1572902567850" duration="1254000" />
+      <workItem from="1572983688624" duration="2415000" />
+      <workItem from="1573073480743" duration="3409000" />
+      <workItem from="1573572488273" duration="101000" />
+      <workItem from="1573572626855" duration="1281000" />
+      <workItem from="1573586032025" duration="4373000" />
+      <workItem from="1573592710184" duration="2710000" />
+      <workItem from="1573640287157" duration="1213000" />
+      <workItem from="1573672223049" duration="4198000" />
+      <workItem from="1573729970100" duration="99000" />
+      <workItem from="1573733735790" duration="24000" />
+      <workItem from="1573741784071" duration="5261000" />
+      <workItem from="1574079944440" duration="587000" />
+      <workItem from="1574080583361" duration="113000" />
+      <workItem from="1574080730428" duration="51000" />
+      <workItem from="1574080814902" duration="191000" />
+      <workItem from="1574081039836" duration="268000" />
+      <workItem from="1574171811956" duration="318000" />
+      <workItem from="1574172196381" duration="18173000" />
+      <workItem from="1574345093339" duration="597000" />
+      <workItem from="1574345733571" duration="5156000" />
+      <workItem from="1574445963355" duration="4079000" />
+      <workItem from="1574867265262" duration="3439000" />
+      <workItem from="1574883506812" duration="3524000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
